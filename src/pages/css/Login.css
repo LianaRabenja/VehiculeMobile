@@ -1,0 +1,16 @@
+.contenu{
+    height: 600px;
+    background-color: aqua;
+}
+.login{
+    width: 400px;
+    height: 300px;
+    margin-top: 150px;
+    background-color:  rgb(26, 53, 53);
+    border-radius: 12px;
+}
+.annonce{
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+}

@@ -1,0 +1,40 @@
+/* Ajoutez ceci à votre fichier css/Inscri.css ou créez un nouveau fichier CSS et importez-le */
+
+ion-content {
+    background-color: #f4f4f4; /* Couleur de fond */
+  }
+  
+  ion-input,
+  ion-select,
+  ion-button {
+    margin-bottom: 15px; /* Ajouter de l'espace entre les éléments */
+    width: 100%; /* Occupera toute la largeur du conteneur parent */
+  }
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  .input-group,
+  .select-group {
+    display: flex;
+    gap: 15px;
+  }
+  
+  /* Ajoutez d'autres styles selon vos besoins */
+  
+  ion-card {
+    margin-top: 20px; /* Ajouter de l'espace entre les cartes */
+  }
+  
+  ion-card-title {
+    color: #333; /* Couleur du titre de la carte */
+  }
+  
+  ion-card-content {
+    color: #666; /* Couleur du texte du contenu de la carte */
+  }
+  
+  /* Ajoutez d'autres styles selon vos besoins */
+  
